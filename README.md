@@ -3,8 +3,8 @@
 
 
 
- 🔭 I’m currently working on my portfolio
- 🌱 I’m currently learning software engineering at ALX nd Frontend Web Development at SHECODES PRO BOOTCAMP
+ *🔭 I’m currently working on my portfolio*
+ *🌱 I’m currently learning software engineering at ALX nd Frontend Web Development at SHECODES PRO BOOTCAMP*
  👯 I’m looking to collaborate on building my portfoli
  🤔 I’m looking for help with design inspirations for my portfolio
  💬 Ask me about Frontend web development
