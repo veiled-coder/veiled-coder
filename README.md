@@ -4,8 +4,8 @@
 
 
  - 🔭 I’m currently working on my portfolio
- - 🌱 I’m currently learning software engineering at ALX nd Frontend Web Development at SHECODES PRO BOOTCAMP*
- - 👯 I’m looking to collaborate on building my portfolio with a UX/UI designer
+ - 🌱 I’m learning Frontend Web Development at SHECODES PRO BOOTCAMP*
+ - 👯 currently building my portfolio in react
  - 🤔 I’m looking for help with design inspirations for my portfolio
  - 💬 Ask me about Frontend web development
  - 📫 How to reach me:omobowalerohma1998@gmail.com
