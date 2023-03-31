@@ -3,7 +3,6 @@
 
 
 
- - 🔭 I’m currently working on my portfolio
  - 🌱 I’m learning Frontend Web Development at STUTERN ACADEMY
  - 👯 Bootcamp grad from shecodes.io
  - 📫 How to reach me:omobowalerohma1998@gmail.com
