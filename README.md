@@ -3,8 +3,8 @@
 
 
 
- - 🌱 I’m learning Frontend Web Development at STUTERN ACADEMY
- - 👯 Front-End graduate from shecodes.io
+
+ - 👯 Front-End graduate from shecodes.io and STUTERN ACADEMY
  - ❓seeking for internship or junior frontend developer role
  - 📫 How to reach me:omobowalerohma1998@gmail.com
  - 😄 Pronouns: she
