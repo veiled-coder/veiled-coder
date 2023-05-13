@@ -4,7 +4,7 @@
 
 
 
- - 👯 Front-End graduate from shecodes.io and STUTERN ACADEMY
+ - 👯 FrontEnd-Development graduate from SHECODES.IO and STUTERN ACADEMY
  - ❓seeking for internship or junior frontend developer role
  - 📫 How to reach me:omobowalerohma1998@gmail.com
  - 😄 Pronouns: she
