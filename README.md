@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/sass-F4C2C2?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![](https://img.shields.io/badge/bootstrap-C2C2F4?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 ![](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/react-002D62?style=for-the-badge&logo=React&logoColor=61DAFB)
+![](https://img.shields.io/badge/react-282B31?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![](https://img.shields.io/badge/-1F305E?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![](https://img.shields.io/badge/ruby-FFC0CB?style=for-the-badge&logo=Ruby&logoColor=CC342D)
 ![](https://img.shields.io/badge/sinatra-00693E?style=for-the-badge&logo=Rubysinatra&logoColor=000000)
