@@ -1,9 +1,9 @@
 ## Hi there 👋
 
- - 👯 FrontEnd-Development graduate from SheCodes.io and Stutern Academy
- - ❓ Currently a full stack development student at Qwasar silicon valley
- - ❓ Currently a front end developer at colab.io 
- - ⚡ Fun fact: i love reciting and memorising the Qur'an.
+ - 👯FrontEnd-Development graduate from SheCodes.io and Stutern Academy
+ - ❓Currently a full stack development student at Qwasar silicon valley
+ - ❓Currently a front end developer at colab.io 
+ - ⚡Fun fact: i love reciting and memorising the Qur'an.
 
 ## Technologies
 
