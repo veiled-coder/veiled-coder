@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/react-002D62?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![](https://img.shields.io/badge/-1F305E?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![](https://img.shields.io/badge/ruby-FFC0CB?style=for-the-badge&logo=Ruby&logoColor=CC342D)
-![](https://img.shields.io/badge/sinatra-006A4E?style=for-the-badge&logo=Rubysinatra&logoColor=000000)
+![](https://img.shields.io/badge/sinatra-00693E?style=for-the-badge&logo=Rubysinatra&logoColor=000000)
 
 ## Team projects
 
