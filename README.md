@@ -4,10 +4,9 @@
 
 
 
- - 👯 FrontEnd-Development graduate from SHECODES.IO and STUTERN ACADEMY
- - ❓seeking for internship or junior frontend developer role
- - 📫 How to reach me:omobowalerohma1998@gmail.com
- - 😄 Pronouns: she
- - passion for testing and responsive design layout
- - ⚡ Fun fact: i love reciting and memorising the Qur'an .I am a veiled lady
+ - 👯 FrontEnd-Development graduate from SheCodes.io and Stutern Academy
+ - ❓ Currently a full stack development student at Qwasar silicon valley 
+ - ⚡ Fun fact: i love reciting and memorising the Qur'an.
+
+ - ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
