@@ -22,12 +22,12 @@
 
 ### **1. [Mealy](https://github.com/Stutern-Project-23/Group-3-Mealy-Project-Team-4A/tree/dev)**
 
-**Project Overview**
+- **Project Overview**
 
 Mealy,a Restaurant Web Application designed and developed to provide a seamless food delivery experience to customers. Leveraging the power of modern web technologies, the application offers a user-friendly interface built with React.js, Redux Toolkit for state management, and Vanilla CSS to ensure responsiveness across various devices. This project is a result of collaborative efforts, with contributions from a team of talented **frontend, backend developers and ui/ux designers.** 
 Visit the live mealy app [here](www.mealy4u.netlify.app).
 
-**Contributors**
+- **Contributors**
 1. [veiled-coder](https://github.com/veiled-coder)
 2. [ChinonyeRuth](https://github.com/ChinonyeRuth)
 3. [Afola-Ode](https://github.com/Afola-Ode)
