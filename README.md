@@ -17,6 +17,7 @@
 ![](https://img.shields.io/badge/-1F305E?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![](https://img.shields.io/badge/ruby-FFC0CB?style=for-the-badge&logo=Ruby&logoColor=CC342D)
 ![](https://img.shields.io/badge/sinatra-00693E?style=for-the-badge&logo=Rubysinatra&logoColor=000000)
+![](https://img.shields.io/badge/sqlITE-ADD8E6?style=for-the-badge&logo=SQLite&logoColor=003B57)
 ![](https://img.shields.io/badge/postman-FFFDD0?style=for-the-badge&logo=postman&logoColor=F76935)
 ## Team projects
 
