@@ -10,4 +10,4 @@
 
 ![html5](https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white)
 
-![Css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css&logoColor=white)
+![Css](https://img.shields.io/badge/css-#1B71B3?style=for-the-badge&logo=CSS3&logoColor=white)
