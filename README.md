@@ -1,4 +1,6 @@
-Hi there,👋I'm Rahmat Abdulfattah , a passionate Frontend Development graduate from **SheCodes.io** and **Stutern Academy**. 
+# Hi there👋
+
+I'm Rahmat Abdulfattah , a passionate Frontend Development graduate from **SheCodes.io** and **Stutern Academy**. 
 
 Currently, I'm pursuing my dream as a full-stack development student at **Qwasar Silicon Valley**, continuously expanding my technical expertise.
 
