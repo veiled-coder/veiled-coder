@@ -1,4 +1,5 @@
-I'm Rahmat Abdulfattah , a passionate Frontend Development graduate from SheCodes.io and Stutern Academy. Currently, I'm pursuing my dream as a full-stack development student at Qwasar Silicon Valley, continuously expanding my technical expertise.
+Hi there,👋I'm Rahmat Abdulfattah , a passionate Frontend Development graduate from **SheCodes.io** and **Stutern Academy**. 
+Currently, I'm pursuing my dream as a full-stack development student at **Qwasar Silicon Valley**, continuously expanding my technical expertise.
 
 As a dedicated Frontend Developer at colab.io, I strive to create user-friendly and visually appealing web experiences that leave a lasting impact. I enjoy collaborating with teams to bring innovative ideas to life.
 
