@@ -31,7 +31,7 @@ As a dedicated Frontend Developer at colab.io, I strive to create user-friendly 
 - **Project Overview**
 
 Mealy,a Restaurant Web Application designed and developed to provide a seamless food delivery experience to customers. Leveraging the power of modern web technologies, the application offers a user-friendly interface built with React.js, Redux Toolkit for state management, and Vanilla CSS to ensure responsiveness across various devices. This project is a result of collaborative efforts, with contributions from a team of talented **frontend, backend developers and ui/ux designers.** 
-Visit the live mealy app [here](www.mealy4u.netlify.app).
+Visit the live mealy web app [here](www.mealy4u.netlify.app).
 
 - **Contributors**
 1. [veiled-coder](https://github.com/veiled-coder)
@@ -40,6 +40,20 @@ Visit the live mealy app [here](www.mealy4u.netlify.app).
 4. [marthafelice](https://github.com/marthafelice)
 5. [pamolowo](https://github.com/pamolowo)
 6. [usiemeblessing](https://github.com/usiemeblessing)
+
+### **2. [Picklepals](https://github.com/Co-Lab-You-Belong-in-Tech/picklepal)**
+
+- **Project Overview**
+
+PicklePals is a collaborative project aimed at bringing together pickleball enthusiasts in Toronto. The project focuses on creating a platform that connects players, fosters a sense of community, and facilitates easy scheduling of pickleball matches. I collaborated with a project manager, a designer, and a backend developer to bring this idea to life.This app offers a user-friendly interface built with React.js, Redux Toolkit for state management, and Vanilla CSS to ensure responsiveness across various devices.Visit the live picklepals web app [here](https://picklepals.netlify.app/).
+
+- **Contributors**
+1. [veiled-coder](https://github.com/veiled-coder) -FrontEnd Developer
+2. [Divash Gupta](https://github.com/Divxsh) -BackEnd Developer
+3. [Eillen Calub](https://www.linkedin.com/in/eileen-calub/)  -UI/UX Designer
+4. [Swathi Rumale](https://www.linkedin.com/in/swathi-rumale-542174b6/)  -Product Manager
+5. 
+![picklepalsImg](https://github.com/veiled-coder/veiled-coder/assets/80168865/6c00e15d-da22-4f20-a778-81bbef53f616)
 
 
 
