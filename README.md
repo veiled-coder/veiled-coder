@@ -52,8 +52,7 @@ PicklePals is a collaborative project aimed at bringing together pickleball enth
 2. [Divash Gupta](https://github.com/Divxsh) -BackEnd Developer
 3. [Eillen Calub](https://www.linkedin.com/in/eileen-calub/)  -UI/UX Designer
 4. [Swathi Rumale](https://www.linkedin.com/in/swathi-rumale-542174b6/)  -Product Manager
-5. 
-![picklepalsImg](https://github.com/veiled-coder/veiled-coder/assets/80168865/6c00e15d-da22-4f20-a778-81bbef53f616)
+
 
 
 
