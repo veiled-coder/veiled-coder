@@ -4,7 +4,7 @@ I'm Rahmat Abdulfattah , a passionate Frontend Development graduate from **SheCo
 
 Currently, I'm pursuing my dream as a full-stack development student at **Qwasar Silicon Valley**, continuously expanding my technical expertise.
 
-As a dedicated Frontend Developer at colab.io, I strive to create user-friendly and visually appealing web experiences that leave a lasting impact. I enjoy collaborating with teams to bring innovative ideas to life.
+As a dedicated Frontend Developer, I strive to create user-friendly and visually appealing web experiences that leave a lasting impact. I enjoy collaborating with teams to bring innovative ideas to life.
 
 ⚡ Fun fact: I have a deep love for reciting and memorizing the Qur'an, which brings me both tranquility and purpose.
 
